@@ -1,4 +1,4 @@
-# Krafty Sprouts Media · KSM Plugins
+# Krafty Sprouts Media Tools
 
 Welcome to the official GitHub organization for Krafty Sprouts Media, LLC.
 
@@ -46,5 +46,5 @@ Feel free to fork or open issues!
 ## 📬 Contact
 
 Have questions or ideas?  
-Email us: `support@kraftysprouts.com`  
+Email us: `hello@kraftysprouts.com`  
 Website: [kraftysprouts.com](https://kraftysprouts.com)
